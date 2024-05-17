@@ -1,8 +1,8 @@
-    # FireApp
+# Fire App
 
     A simple app that monitors fire incidents from different cities and countries.
 
-    ### Instructions
+### Instruction
 
     1. Create a Repository on GitHub:
 
@@ -49,3 +49,7 @@
     ```
     pip install -r requirements.txt
     ```
+
+# Screenshots
+
+! [img](Projectsite\assets\png.png)
