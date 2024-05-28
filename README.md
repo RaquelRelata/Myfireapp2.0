@@ -53,4 +53,4 @@
 # Screenshots
 
 ![img](https://github.com/Norkizah/Fireapp/blob/main/Projectsite/assets/png.png?raw=true)
-![img](https://github.com/Norkizah/Fireapp/blob/main/Projectsite/assets/png2.png?raw=true)
+![img](https://github.com/Norkizah/Fireapp/blob/main/Projectsite/assets/2png.png?raw=true)
